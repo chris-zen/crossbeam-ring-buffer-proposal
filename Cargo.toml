@@ -1,0 +1,7 @@
+[package]
+name = "ring-buffer"
+version = "0.1.0"
+authors = ["Christian Pérez-Llamas"]
+edition = "2018"
+
+[dependencies]
